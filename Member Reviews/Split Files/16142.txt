@@ -1,0 +1,7 @@
+Dün filmi izledim .
+Filmi Eğlenceli hale getiren tek şey ünlüleri .
+Örneğin bir sahneden sonra ( sahneyi anlatmıcam izlemeyenler için ) eksikliğini hissedince kendi kendime dedim ki : " Bu filmi Cem Yılmaz , Şener Şen ve Okan ı çıkarsan kimse izlemez "
+Demek ki sıradan tanınmayan oyuncularla oynansa kimse izlemez .
+Film şuan 8.3 ise 2 karakter hatta Okanın da sevenleri için 0.5 eklesem Cem Yılmaz için 1puan ektra , Şener Şen için 1 puan ekstra ve Okan için 0.5 ekstra puanları çekersek geriye filmin asıl puanı çıkıyor .
+8.3 - 2.5 = " 6 "
+10 / 6

@@ -1,0 +1,3 @@
+Arkadaşlar Sitenin Yavaşlaması ile ilgili olarak Buna , Google analytics kodları sebep oluyormuş .
+Bildiğiniz gibi Googlenin bazı uygulamalarına yasak getirilmişti .
+Bunun Zararını Türkiyedeki Çoğu Site gibi Bizde Gördük : ( Sorunun çaresine bakıp , Düzeltmeye çalışıyorlarmış .
