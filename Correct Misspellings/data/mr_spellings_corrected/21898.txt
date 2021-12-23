@@ -1,0 +1,3 @@
+Bir film bu kadar kötü olur .
+Bu kadar usta oyuncular filmin galasında emin olun utanmışlardır .
+Film arasında çıktım , param net olarak boşa gitti

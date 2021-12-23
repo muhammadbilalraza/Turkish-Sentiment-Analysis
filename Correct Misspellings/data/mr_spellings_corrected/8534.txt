@@ -1,0 +1,1 @@
+Kitap serilerinden çıkma tüm filmlerini tahtında sallayacak bir film .
