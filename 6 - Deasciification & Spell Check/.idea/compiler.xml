@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MavenTest" />
         <module name="SpellCheck" />
+        <module name="6 - Deasciification &amp; Spell Check" />
       </profile>
     </annotationProcessing>
   </component>
